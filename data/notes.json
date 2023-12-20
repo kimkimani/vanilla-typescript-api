@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Create Class Notes",
+    "content": "Add summarized notes for computer science class"
+  },
+  {
+    "id": "2",
+    "title": "Ideas",
+    "content": "Brainstorm new features for the application."
+  },
+  {
+    "id": "531703",
+    "title": "Learn TypeScript with Node.js",
+    "content": "Use TypeScript to create a CRUD Note.js API."
+  }
+]
